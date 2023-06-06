@@ -32,3 +32,26 @@ Genomförande
 
 När ni kommer till laborationstillfället kommer varje grupp tilldelas ett utvecklingskit. Varje kartong innehåller ett utvecklingskort, en strömkabel samt en USB-kabel. Tänk på att det är ömtålig elektronik, så hantera dem varsamt. Skriv klart koden, kompilera och ladda ner programmet på kortet för att testa att den verkligen fungerar. Meddela handledaren genom att skriva namn på tavlan på anvisad plats. Genomförandet bedöms på plats och betygen förs in i iLearn under det aktuella laborationstillfället.
 
+Laboration 2
+
+Instruktioner
+
+I den här laborationen kommer ni utgå från en källkodsfil i vilken de funktioner ni behöver för att skriva till LCDn redan finns färdiga. Det finns dock ingen main-funktion som kan hantera de olika delarna och funktionerna för att kommunicera via JTAG och RS-232 behöver skrivas klart. Ni ska skriva till den assemblerkod som behövs för att programmet ska fungera enligt det flödesschema som finns nedan. Ni ska även kunna förklara de olika delarna som ni skrivit.
+
+Syfte
+
+Syftet är att skapa en grundläggande förståelse för relationen mellan programkod och hårdvara med särskilt fokus på seriell kommunikation.
+
+Mål
+
+Målet är att alla studenter ska kunna demonstrera ett fungerande program enligt uppgiftsbeskrivningen och kunna förklara vad de olika instruktionerna gör - d.v.s. de instruktioner som skrivits på egen hand.
+
+Krav för godkänt
+
+För godkänt krävs
+att ett korrekt program som hanterar I/O enligt flödesschemat (detta finns även illustrerat i TV-kockspresentationen nedan) har skrivits av gruppmedlemmarna och sedan laddats ner och körts på utvecklingskortet
+att samtliga studenter i gruppen kan förklara de delar av koden som skrivits på egen hand
+att handledaren har bedömt att (1) och (2) är uppfyllda
+Genomförande
+
+När ni kommer till laborationstillfället kommer varje grupp tilldelas ett utvecklingskit. Varje kartong innehåller ett utvecklingskort, en strömkabel samt en USB-kabel. Tänk på att det är ömtålig elektronik, så hantera dem varsamt. Varannan grupp kommer även få ut en seriell kabel så att ni kan koppla ihop utvecklingskorten. Skriv klart koden, kompilera och ladda ner programmet på kortet för att testa att den verkligen fungerar. Meddela handledaren genom att skriva namn på tavlan på anvisad plats. Genomförandet bedöms på plats och betygen förs in i iLearn under det aktuella laborationstillfället.
